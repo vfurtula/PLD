@@ -1,0 +1,11 @@
+Your comment line - keep this line
+Col 0: Elapsed time [s]
+Col 1: PM100USB beam energy [mJ]
+Col 2: Current pulse rate [Hz]
+Col 3: COMPexPRO beam energy [mJ]
+Col 4: Voltage [kV]
+
+Col 0		Col 1	Col 2	Col 3	Col 4
+00000.6303	-210.997	1	-663.785	29.0
+00001.5186	-846.279	1	-777.408	29.0
+00002.0235	-32.529	1	-160.502	29.0
