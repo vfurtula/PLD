@@ -1,7 +1,7 @@
 Author: Vedran Furtula
 Date: 28 Sept 2019
 
-Welcome to the PLD instrument control software python code. This is code is used to control communucation between a PLD photon source, a Thorlabs detector diode and a host computer.
+Welcome to the PLD instrument control software python code. This code is used to control communucation between a PLD photon source, a Thorlabs detector diode and a host computer.
 
 ####################################################
 ################### RUN THE CODE ###################
